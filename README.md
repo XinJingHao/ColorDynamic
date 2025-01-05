@@ -22,8 +22,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse2.gif" width="262" />
-  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse.gif" width="488" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse1.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse2.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse3.gif" width="250" />
 </p>
 
 <p align="center">
