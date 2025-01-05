@@ -26,6 +26,13 @@
   <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse.gif" width="488" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/real1.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/real2.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/real3.gif" width="250" />
+</p>
+<p align="center"> <code>Note that the blue robots are random dynamic obstacles and white robot is our agent.</code> </p>
+
 ## Dependency
 
 ```bash
