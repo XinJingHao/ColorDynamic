@@ -16,9 +16,14 @@
 
 ## Gallery
 <p align="center">
-  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case1.gif" width="250" />
-  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case_cd.gif" width="250" />
   <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case2.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case_cd.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V3/N3.gif" width="250" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse2.gif" width="262" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse.gif" width="488" />
 </p>
 
 ## Dependency
@@ -67,12 +72,18 @@ python evaluate_and_plot.py
 ```
 
 ## Navigation with ColorDynamic
+<p align="left">
+  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse2.gif" width="262" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse.gif" width="488" />
+</p>
+
 Please refer to the [OPCD](https://github.com/XinJingHao/OPCD-Navigation) Navigation System.
 
 <br/>
 
 ## Documentations:
 - Sparrow-V2
+- [Sparrow-V3](https://github.com/XinJingHao/Sparrow-V3)
 - ColorDynamic
 - [Color](https://www.sciencedirect.com/science/article/abs/pii/S0952197624018840)
 
