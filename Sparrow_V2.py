@@ -121,8 +121,8 @@ class Sparrow():
         self.Obs_refresh_counter = self.Obs_refresh_interval
         self.max_Obs_V = int(self.Obs_V * self.Obs_refresh_interval * self.basic_ctrl_interval) # 障碍物x,y轴最大速度 (cm per fresh), 标量
         self.Dynamic_obs_canvas = pygame.Surface((2 * (self.Obs_R + self.w), 2 * (self.Obs_R + self.w)))  # 用于画动态障碍物，方便后续转化为栅格点
-        self.l_margin = 2 * (self.Obs_R + self.w) # left&up margin of dynamic obstacle's moving space
-        self.h_margin = self.window_size - 2 * (self.Obs_R + self.w) # right&bottom margin of dynamic obstacle's moving space
+        self.l_margin = 50 # left&up margin of dynamic obstacle's moving space
+        self.h_margin = self.window_size-50 # right&bottom margin of dynamic obstacle's moving space
 
         # Static Obstacle Related:
         self.Static_obs_canvas = pygame.Surface((self.window_size, self.window_size))  # 用于画静态障碍物，方便后续转化为栅格点
