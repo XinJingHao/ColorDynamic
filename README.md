@@ -1,12 +1,25 @@
 <p align="center">
-  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/logo.png" width="300" />
-</p>
-
-<div align=center>
+  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/logo.png" width="300" /><br>
   <img src="https://img.shields.io/badge/Python-blue" />
   <img src="https://img.shields.io/badge/DRL-blueviolet" />
   <img src="https://img.shields.io/badge/MobileRobot-ff69b4" />
-</div>
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>Generalizable, Compatible, Scalable, End-to-end Real-time Local Planner</strong><br>
+  <strong>for Unknown & Dynamic Environments</strong>
+</p>
+
+<br/>
+
+## Gallery
+<p align="center">
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case1.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case_cd.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case2.gif" width="250" />
+</p>
 
 ## Dependency
 
@@ -19,12 +32,7 @@ torchaudio>=2.2.0
 torchvision>=0.17.0
 ```
 
-## Gallery
-<p align="center">
-  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case1.gif" width="250" />
-  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case_cd.gif" width="250" />
-  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case2.gif" width="250" />
-</p>
+
 
 
 
