@@ -8,16 +8,6 @@
   <img src="https://img.shields.io/badge/MobileRobot-ff69b4" />
 </div>
 
-
-
-## Gallery
-<p align="center">
-  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case1.gif" width="250" />
-  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case_cd.gif" width="250" />
-  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case2.gif" width="250" />
-</p>
-
-
 ## Dependency
 
 ```bash
@@ -28,6 +18,16 @@ torch>=2.2.0 # GPU version is recommended
 torchaudio>=2.2.0
 torchvision>=0.17.0
 ```
+
+## Gallery
+<p align="center">
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case1.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case_cd.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case2.gif" width="250" />
+</p>
+
+
+
 ## Quick Start
 ### Play with keyboard:
 
