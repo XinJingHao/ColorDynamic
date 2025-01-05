@@ -43,6 +43,7 @@ pygame>=2.5.2
 torch>=2.2.0 # GPU version is recommended
 torchaudio>=2.2.0
 torchvision>=0.17.0
+tensorboard>=2.18.0
 ```
 
 
