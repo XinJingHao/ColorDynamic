@@ -81,8 +81,7 @@ python evaluate_and_plot.py
 
 ## Navigation with ColorDynamic
 <p align="left">
-  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse2.gif" width="262" />
-  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse.gif" width="488" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse.gif" width="500" />
 </p>
 
 Please refer to the [OPCD](https://github.com/XinJingHao/OPCD-Navigation) Navigation System.
