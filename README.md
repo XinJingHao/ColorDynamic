@@ -92,7 +92,7 @@ Please refer to the [OPCD](https://github.com/XinJingHao/OPCD-Navigation) Naviga
 ## Documentations:
 - [Sparrow-V2](https://github.com/XinJingHao/Sparrow-V2)
 - [Sparrow-V3](https://github.com/XinJingHao/Sparrow-V3)
-- ColorDynamic
+- [ColorDynamic](https://github.com/XinJingHao/ColorDynamic)
 - [Color](https://www.sciencedirect.com/science/article/abs/pii/S0952197624018840)
 
 <br/>
