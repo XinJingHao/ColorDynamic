@@ -8,8 +8,8 @@
 <br/>
 
 <p align="center">
-  <strong>Generalizable, Compatible, Scalable, Real-time, End-to-end Local Planner</strong><br>
-  <strong>for Unknown & Dynamic Environments</strong>
+  <strong>Generalizable, Scalable, Real-time, End-to-end Local Planner</strong><br>
+  <strong>for Unstructured & Dynamic Environments</strong>
 </p>
 
 <br/>
