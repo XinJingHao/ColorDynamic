@@ -32,10 +32,8 @@
   <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/real2.gif" width="250" />
   <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/real3.gif" width="250" />
 </p>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Note that the blue robots are random dynamic obstacles and white robot is our agent. 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The video can be found [here](https://www.youtube.com/watch?v=5NMHKDOdt54). 
 
 ## Dependency
