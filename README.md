@@ -99,6 +99,7 @@ Please refer to the [OPCD](https://github.com/XinJingHao/OPCD-Navigation) Naviga
 - [Sparrow-V3](https://github.com/XinJingHao/Sparrow-V3)
 - [ColorDynamic](https://github.com/XinJingHao/ColorDynamic)
 - [Color](https://www.sciencedirect.com/science/article/abs/pii/S0952197624018840)
+- [OPCD](https://github.com/XinJingHao/OPCD-Navigation)
 
 <br/>
 
