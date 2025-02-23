@@ -34,7 +34,9 @@
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Note that the blue robots are random dynamic obstacles and white robot is our agent. The video can be found [here](https://www.youtube.com/watch?v=5NMHKDOdt54). 
+Note that the blue robots are random dynamic obstacles and white robot is our agent. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The video can be found [here](https://www.youtube.com/watch?v=5NMHKDOdt54). 
 
 ## Dependency
 
