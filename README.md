@@ -111,7 +111,7 @@ To cite this repository in publications:
 @article{ColorDynamic,
   title={ColorDynamic: Generalizable, Scalable, Real-time, End-to-end Local Planner for Unstructured and Dynamic Environments},
   author={Jinghao Xin, Zhichao Liang, Zihuan Zhang, Peng Wang, and Ning Li},
-  journal={arXiv preprint	arXiv:2502.19892},
+  journal={arXiv preprint arXiv:2502.19892},
   year={2025}
 }
 ```
