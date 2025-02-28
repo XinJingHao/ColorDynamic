@@ -108,14 +108,11 @@ Please refer to the [OPCD](https://github.com/XinJingHao/OPCD-Navigation) Naviga
 To cite this repository in publications:
 
 ```bibtex
-@article{OPCD2025,
-title = {OkayPlan and ColorDynamic},
-journal = {XXX},
-volume = {XXX},
-pages = {XXX},
-year = {2025},
-issn = {XXXX-XXXX},
-author = {Jinghao Xin},
+@article{ColorDynamic,
+  title={ColorDynamic: Generalizable, Scalable, Real-time, End-to-end Local Planner for Unstructured and Dynamic Environments},
+  author={Jinghao Xin, Zhichao Liang, Zihuan Zhang, Peng Wang, and Ning Li},
+  journal={arXiv preprint	arXiv:2502.19892},
+  year={2025}
 }
 ```
 
